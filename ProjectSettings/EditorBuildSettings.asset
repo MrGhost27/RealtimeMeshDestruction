@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/For Results/Scene 1A-Proximity-Mesh And Sphere.unity
+    guid: 419c33c29f8952b479e3db4827041ce4
+  - enabled: 1
+    path: Assets/Scenes/For Results/Scene 1B-Planar-Mesh And Sphere.unity
+    guid: dd741d8077ffec740995994b5777c1c8
+  - enabled: 1
+    path: Assets/Scenes/For Results/Scene 2A-Proximity-Spheres and Cubes.unity
+    guid: 3b76ecfa862d6e2498039e719283c442
+  - enabled: 1
+    path: Assets/Scenes/For Results/Scene 2B-Planar-Spheres and Cubes.unity
+    guid: 006031a986520434d84f4a492adb02b6
+  - enabled: 1
+    path: Assets/Scenes/For Results/Scene 3A-Proximity-Lion and Ball.unity
+    guid: 900fcad17a6a67a48aecf2c9f60d4958
+  - enabled: 1
+    path: Assets/Scenes/For Results/Scene 3B-Planar-Lion and Ball.unity
+    guid: f017e87574b300e45aab0c93777e383d
+  - enabled: 1
+    path: Assets/Scenes/For Results/Scene 4A-Proximity-Horse LoD 1.unity
+    guid: d72a27ef06964884d8488b7bcab66df2
+  - enabled: 1
+    path: Assets/Scenes/For Results/Scene 4B-Planar-Horse LoD 1.unity
+    guid: 6ef48190431792242aa8ce7a8bf879ea
+  - enabled: 1
+    path: Assets/Scenes/For Results/Scene 5A-Proximity-High Poly Test.unity
+    guid: 1a0f0a08df9e030499dd3bdfdf48240f
+  - enabled: 1
+    path: Assets/Scenes/For Results/Scene 5B-Planar-High Poly Test.unity
+    guid: 850771d59128ea14fb17351dc19e3fb1
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4934519ea8b45594781eda8b3cf9090e,
+      type: 2}
